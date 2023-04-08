@@ -1,0 +1,432 @@
+app started!
+INITIAL GENERATION***************************************
+
+INITIAL PEEPS***************************************
+
+M - Raymond Prather 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 0.0
+
+F - Trudy Meza 11001100 
+Code - 204, fitness - 38556.0, ratio - 23.25, roulette - 1.96
+
+M - Thomas Ritacco 00100111 
+Code - 39, fitness - 936.0, ratio - 0.56, roulette - 1.96
+
+M - Jack Severs 10011001 
+Code - 153, fitness - 21114.0, ratio - 12.73, roulette - 1.96
+
+F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+
+M - James George 01000001 
+Code - 65, fitness - 3250.0, ratio - 1.96, roulette - 1.96
+
+Family Weathers 
+Mom: F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+ 
+Dad: F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+ 
+CHILDREN
+
+F - Sylvia Weathers 10011110 
+Code - 158, fitness - 22594.0, ratio - 0.0, roulette - 0.0
+
+F - Jaclyn Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+ 
+Dad: F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+ 
+CHILDREN
+
+M - Lorenzo Weathers 11101001 
+Code - 233, fitness - 50794.0, ratio - 0.0, roulette - 0.0
+
+F - Carolyn Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+ 
+Dad: F - Teresa Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 31.73, roulette - 1.96
+ 
+CHILDREN
+
+M - Randy Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 0.0, roulette - 0.0
+
+F - Elisa Weathers 11101111 
+Code - 239, fitness - 53536.0, ratio - 0.0, roulette - 0.0
+
+
+ GENERATION 2***************************************
+
+PEEPS FROM LAST GENERATION***************************************
+
+F - Sylvia Weathers 10011110 
+Code - 158, fitness - 22594.0, ratio - 10.33, roulette - 0.0
+
+F - Jaclyn Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 21.2, roulette - 24.47
+
+M - Lorenzo Weathers 11101001 
+Code - 233, fitness - 50794.0, ratio - 23.22, roulette - 24.47
+
+F - Carolyn Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 21.2, roulette - 24.47
+
+M - Randy Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 24.05, roulette - 24.47
+
+F - Elisa Weathers 11101111 
+Code - 239, fitness - 53536.0, ratio - 24.47, roulette - 24.47
+
+Family Weathers 
+Mom: M - Randy Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 24.05, roulette - 24.47
+ 
+Dad: M - Randy Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 24.05, roulette - 24.47
+ 
+CHILDREN
+
+M - Robert Weathers 01101101 
+Code - 109, fitness - 10246.0, ratio - 0.0, roulette - 0.0
+
+M - Michael Weathers 11101111 
+Code - 239, fitness - 53536.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Sylvia Weathers 10011110 
+Code - 158, fitness - 22594.0, ratio - 10.33, roulette - 0.0
+ 
+Dad: F - Sylvia Weathers 10011110 
+Code - 158, fitness - 22594.0, ratio - 10.33, roulette - 0.0
+ 
+CHILDREN
+
+F - Margery Weathers 10011010 
+Code - 154, fitness - 21406.0, ratio - 0.0, roulette - 0.0
+
+M - Michael Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: M - Randy Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 24.05, roulette - 24.47
+ 
+Dad: M - Randy Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 24.05, roulette - 24.47
+ 
+CHILDREN
+
+F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 0.0, roulette - 0.0
+
+M - Stephen Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 0.0, roulette - 0.0
+
+
+ GENERATION 3***************************************
+
+PEEPS FROM LAST GENERATION***************************************
+
+M - Robert Weathers 01101101 
+Code - 109, fitness - 10246.0, ratio - 5.63, roulette - 0.0
+
+M - Michael Weathers 11101111 
+Code - 239, fitness - 53536.0, ratio - 29.41, roulette - 4.08
+
+F - Margery Weathers 10011010 
+Code - 154, fitness - 21406.0, ratio - 11.76, roulette - 4.08
+
+M - Michael Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 28.9, roulette - 4.08
+
+F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+
+M - Stephen Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.08, roulette - 4.08
+
+Family Weathers 
+Mom: F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+ 
+Dad: F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+ 
+CHILDREN
+
+M - Ricky Weathers 11010010 
+Code - 210, fitness - 40950.0, ratio - 0.0, roulette - 0.0
+
+M - Kevin Weathers 10111101 
+Code - 189, fitness - 32886.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+ 
+Dad: F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+ 
+CHILDREN
+
+F - Jennifer Weathers 11010010 
+Code - 210, fitness - 40950.0, ratio - 0.0, roulette - 0.0
+
+F - Bernice Weathers 10101100 
+Code - 172, fitness - 27004.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+ 
+Dad: F - Jeanette Weathers 11011010 
+Code - 218, fitness - 44254.0, ratio - 24.31, roulette - 4.08
+ 
+CHILDREN
+
+F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 0.0, roulette - 0.0
+
+M - Joseph Weathers 00101101 
+Code - 45, fitness - 1350.0, ratio - 0.0, roulette - 0.0
+
+
+ GENERATION 4***************************************
+
+PEEPS FROM LAST GENERATION***************************************
+
+M - Ricky Weathers 11010010 
+Code - 210, fitness - 40950.0, ratio - 21.06, roulette - 0.0
+
+M - Kevin Weathers 10111101 
+Code - 189, fitness - 32886.0, ratio - 16.92, roulette - 0.69
+
+F - Jennifer Weathers 11010010 
+Code - 210, fitness - 40950.0, ratio - 21.06, roulette - 0.69
+
+F - Bernice Weathers 10101100 
+Code - 172, fitness - 27004.0, ratio - 13.89, roulette - 0.69
+
+F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+
+M - Joseph Weathers 00101101 
+Code - 45, fitness - 1350.0, ratio - 0.69, roulette - 0.69
+
+Family Weathers 
+Mom: F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+ 
+Dad: F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+ 
+CHILDREN
+
+F - Barbara Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 0.0, roulette - 0.0
+
+M - Kenneth Weathers 11011100 
+Code - 220, fitness - 45100.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+ 
+Dad: F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+ 
+CHILDREN
+
+M - Ronald Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 0.0, roulette - 0.0
+
+F - Silvia Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+ 
+Dad: F - Tracie Weathers 11101101 
+Code - 237, fitness - 52614.0, ratio - 27.06, roulette - 0.69
+ 
+CHILDREN
+
+F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 0.0, roulette - 0.0
+
+F - Sherry Weathers 01101101 
+Code - 109, fitness - 10246.0, ratio - 0.0, roulette - 0.0
+
+
+ GENERATION 5***************************************
+
+PEEPS FROM LAST GENERATION***************************************
+
+F - Barbara Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 30.37, roulette - 0.0
+
+M - Kenneth Weathers 11011100 
+Code - 220, fitness - 45100.0, ratio - 29.53, roulette - 6.71
+
+M - Ronald Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+
+F - Silvia Weathers 11011111 
+Code - 223, fitness - 46384.0, ratio - 30.37, roulette - 6.71
+
+F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+
+F - Sherry Weathers 01101101 
+Code - 109, fitness - 10246.0, ratio - 6.71, roulette - 6.71
+
+Family Weathers 
+Mom: F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+ 
+Dad: F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+ 
+CHILDREN
+
+M - Todd Weathers 11000101 
+Code - 197, fitness - 35854.0, ratio - 0.0, roulette - 0.0
+
+M - Eric Weathers 11100111 
+Code - 231, fitness - 49896.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+ 
+Dad: F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+ 
+CHILDREN
+
+M - Gary Weathers 01010110 
+Code - 86, fitness - 6106.0, ratio - 0.0, roulette - 0.0
+
+M - Robert Weathers 01011111 
+Code - 95, fitness - 7600.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+ 
+Dad: F - Carol Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 4.86, roulette - 6.71
+ 
+CHILDREN
+
+F - Carolyn Weathers 01100101 
+Code - 101, fitness - 8686.0, ratio - 0.0, roulette - 0.0
+
+F - Laura Weathers 11110101 
+Code - 245, fitness - 56350.0, ratio - 0.0, roulette - 0.0
+
+
+ GENERATION 6***************************************
+
+PEEPS FROM LAST GENERATION***************************************
+
+M - Todd Weathers 11000101 
+Code - 197, fitness - 35854.0, ratio - 33.15, roulette - 0.0
+
+M - Eric Weathers 11100111 
+Code - 231, fitness - 49896.0, ratio - 46.14, roulette - 52.11
+
+M - Gary Weathers 01010110 
+Code - 86, fitness - 6106.0, ratio - 5.65, roulette - 52.11
+
+M - Robert Weathers 01011111 
+Code - 95, fitness - 7600.0, ratio - 7.03, roulette - 52.11
+
+F - Carolyn Weathers 01100101 
+Code - 101, fitness - 8686.0, ratio - 8.03, roulette - 52.11
+
+F - Laura Weathers 11110101 
+Code - 245, fitness - 56350.0, ratio - 52.11, roulette - 52.11
+
+Family Weathers 
+Mom: F - Carolyn Weathers 01100101 
+Code - 101, fitness - 8686.0, ratio - 8.03, roulette - 52.11
+ 
+Dad: F - Carolyn Weathers 01100101 
+Code - 101, fitness - 8686.0, ratio - 8.03, roulette - 52.11
+ 
+CHILDREN
+
+M - Thomas Weathers 01000110 
+Code - 70, fitness - 3850.0, ratio - 0.0, roulette - 0.0
+
+F - Mary Weathers 01100101 
+Code - 101, fitness - 8686.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: M - Todd Weathers 11000101 
+Code - 197, fitness - 35854.0, ratio - 33.15, roulette - 0.0
+ 
+Dad: M - Todd Weathers 11000101 
+Code - 197, fitness - 35854.0, ratio - 33.15, roulette - 0.0
+ 
+CHILDREN
+
+F - Julie Weathers 11001101 
+Code - 205, fitness - 38950.0, ratio - 0.0, roulette - 0.0
+
+F - Rachel Weathers 01011100 
+Code - 92, fitness - 7084.0, ratio - 0.0, roulette - 0.0
+
+
+
+Family Weathers 
+Mom: M - Todd Weathers 11000101 
+Code - 197, fitness - 35854.0, ratio - 33.15, roulette - 0.0
+ 
+Dad: M - Todd Weathers 11000101 
+Code - 197, fitness - 35854.0, ratio - 33.15, roulette - 0.0
+ 
+CHILDREN
+
+M - Hector Weathers 01011110 
+Code - 94, fitness - 7426.0, ratio - 0.0, roulette - 0.0
+
+M - Thomas Weathers 11000001 
+Code - 193, fitness - 34354.0, ratio - 0.0, roulette - 0.0
+
